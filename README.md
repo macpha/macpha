@@ -1,16 +1,13 @@
-### Hi there 👋
+# macpha2302
 
-<!--
-**macpha/macpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sejong Univ.
+- Intelligent Mechatronics Engineering 18'
 
-Here are some ideas to get you started:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=macpha2302)](https://solved.ac/macpha2302/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+### Blog
+[![Study Blog]](https://macpha2302.tistory.com/)
