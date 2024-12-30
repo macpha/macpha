@@ -2,6 +2,10 @@
 
 - Sejong Univ.
 - Intelligent Mechatronics Engineering 18'
+- Korea Univ.
+- School of Electrical Enginerring 24'
+- Integrated Master & Ph.D Student
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=macpha2302)](https://solved.ac/macpha2302/)
 
